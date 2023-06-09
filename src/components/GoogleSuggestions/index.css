@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.app-con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+}
+.logo {
+  width: 200px;
+}
+.search-input-con {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sub-con {
+  box-shadow: 1px 2px 2px 1px gray;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 10px;
+}
+.search-logo {
+  width: 30px;
+}
+.input {
+  border: 0px;
+  outline: none;
+}
+.unorderd-con {
+  display: flex;
+
+  flex-direction: column;
+}
+.button {
+  border: 0px;
+  background: none;
+}

@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.list-items {
+  display: flex;
+  justify-content: space-between;
+}
+.arrow-img {
+  width: 30px;
+}
